@@ -1,3 +1,6 @@
+*.zip
 system/etc/security/cacerts/*
 !system/etc/security/cacerts/.gitkeep
-*.zip
+!system/etc/security/cacerts/3a951726.0
+!system/etc/security/cacerts/9a5ba575.0
+!system/etc/security/cacerts/81c450f1.0
